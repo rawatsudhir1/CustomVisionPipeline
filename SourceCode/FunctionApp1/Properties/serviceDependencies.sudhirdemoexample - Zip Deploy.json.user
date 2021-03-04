@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-01-31T22:09:02.9392691Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "66411430-a352-4a35-ac5c-a1bd0d20e782"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "sudhirfonterra"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sudhirawimagestorage;AccountKey=u9R9lhgdw+CGkJwu+4sRbFqgOplp7Qm4bU8XjaC1eTaTkMNsihVcz3X3PZw2jg6v2KgbyFMmGvvMA8OU3m2RYA==;BlobEndpoint=https://sudhirawimagestorage.blob.core.windows.net/;TableEndpoint=https://sudhirawimagestorage.table.core.windows.net/;QueueEndpoint=https://sudhirawimagestorage.queue.core.windows.net/;FileEndpoint=https://sudhirawimagestorage.file.core.windows.net/",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "ConnectionStrings": {
+    "sqlConnectionString": "Server=tcp:sudhirfonterraserver.database.windows.net,1433;Initial Catalog=sudhirfonterradb;Persist Security Info=False;User ID=funkyadmin;Password=J@ssw0rd@1979;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "storageConnectionString": "DefaultEndpointsProtocol=https;AccountName=sudhirawimagestorage;AccountKey=u9R9lhgdw+CGkJwu+4sRbFqgOplp7Qm4bU8XjaC1eTaTkMNsihVcz3X3PZw2jg6v2KgbyFMmGvvMA8OU3m2RYA==;EndpointSuffix=core.windows.net",
+    "customVisionURI": "https://sudhirawcustomvision.cognitiveservices.azure.com/customvision/v3.0/Prediction/94ee9a74-d204-452b-b95b-0c19cb67f9c7/detect/iterations/PredictLogo/url/nostore?",
+    "Prediction-key": "997fee743bb2481587587080147e0192",
+    "RequestParameternumTagsPerBoundingBox": "4",
+    "RequestParameterapplication": "{SudhirFromMicrosoft}"
+  }
+}

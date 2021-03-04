@@ -1,0 +1,18 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-3.0.11",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "methods": [
+        "get",
+        "post"
+      ],
+      "authLevel": "function",
+      "name": "req"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/FunctionApp1.dll",
+  "entryPoint": "FunctionApp1.Function1.Run"
+}

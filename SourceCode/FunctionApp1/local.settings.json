@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "ConnectionStrings": {
+    "sqlConnectionString": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "storageConnectionString": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "customVisionURI": "https://XXXXXXXXXXXXXXX.cognitiveservices.azure.com/customvision/v3.0/Prediction/XXXXXXXX/detect/iterations/PredictLogo/url/nostore?",
+    "Prediction-key": "XXXXXXXXXXXXXXXXXXXXXXX",
+    "RequestParameternumTagsPerBoundingBox": "4",
+    "RequestParameterapplication": "{SudhirFromMicrosoft}"
+  }
+}
