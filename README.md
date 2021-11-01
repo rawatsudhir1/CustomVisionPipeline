@@ -32,7 +32,7 @@ https://github.com/rawatsudhir1/CustomVisionPipeline/SourceCode/
 ```
 {
 	"Name": "Sudhir Rawat",
-	"Role": "Azure Dev PMM",
+	"Role": "Senior Cloud Solution Architect",
 	"Company": "Microsoft, NZ",
 	"LinkedIn": "http://aka.ms/connectsudhir",
 	"Twitter": "http://aka.ms/followsudhir",
