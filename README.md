@@ -21,7 +21,7 @@ Information about this blogpost and implementation is shared over video blog men
 ![Flow](./Images/Arch.gif)
 
 ## Video Blog 
-[Video Blog](https://i9.ytimg.com/vi_webp/fWFju1-UJ7U/mqdefault.webp?time=1614817800000&sqp=CIjUgIIG&rs=AOn4CLCDVAtL8kevXVkMPANQa9APyi9PBQ)](https://youtu.be/fWFju1-UJ7U)
+[Video Blog](https://youtu.be/fWFju1-UJ7U)
 
 
 ## Source Code
